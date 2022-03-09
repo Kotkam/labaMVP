@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">labaMVP</string>
+    <string name="button">Add new text</string>
+    <string name="input_hint">Input your text here</string>
 </resources>
